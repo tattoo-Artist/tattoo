@@ -1,5 +1,5 @@
 {
-    "name": "chen",
+    "name": "tattoo",
     "version": "1.0.0",
     "description": "sign everything",
     "main": "Ponysitters_Club_Season.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/18806711385/chen.git"
+        "url": "git+https://github.com/tattoo-Artist/tattoo.git"
     },
     "keywords": [
         "sign"
@@ -16,9 +16,9 @@
     "author": "canghaiyishengxiao2021",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/18806711385/chen/issues"
+        "url": "https://github.com/tattoo-Artist/tattoo/issues"
     },
-    "homepage": "https://github.com/18806711385/chen#readme",
+    "homepage": "https://github.com/tattoo-Artist/tattoo#readme",
     "dependencies": {
         "download": "^8.0.0",
         "request": "^2.88.2",
